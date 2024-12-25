@@ -1,8 +1,8 @@
 import java.util.ArrayList;
 public class ZooKeeper {
     private String name;
-    private int experience; // Стаж работы
-    private ArrayList<Animal> animals; // Животные под ответственностью смотрителя
+    private int experience;
+    private ArrayList<Animal> animals;
 
     public ZooKeeper(String name, int experience) {
         this.name = name;

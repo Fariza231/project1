@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 public class Zoo {
     private String name;
-    private ArrayList<ZooKeeper> zooKeepers; // Список смотрителей
+    private ArrayList<ZooKeeper> zooKeepers;
 
     public Zoo(String name) {
         this.name = name;

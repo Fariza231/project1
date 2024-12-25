@@ -3,7 +3,7 @@ public class Animal {
     private String name;
     private int age;
     private String diet;
-    private String feedingSchedule; // расписание кормления
+    private String feedingSchedule;
 
     public Animal(String species, String name, int age, String diet, String feedingSchedule) {
         this.species = species;
